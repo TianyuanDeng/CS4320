@@ -38,6 +38,12 @@ The dynasty to follow the Shang, the [Western Zhou Dynasty](https://en.wikipedia
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/5/56/Ruqun.svg)
 ***
 #### **See also** 
+#### Videos 
+[Video of Han Fu in Bilibili 1](https://www.bilibili.com/video/av11085154?from=search&seid=271187777917072949)
+
+[Video of Han Fu in Bilibili 2](https://www.bilibili.com/video/av20785718?from=search&seid=271187777917072949)
+***
+#### Wiki
 [List of Hanfu](https://en.wikipedia.org/wiki/List_of_Hanfu)
 
 [Culture of China](https://en.wikipedia.org/wiki/Chinese_culture)
