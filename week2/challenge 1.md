@@ -1,5 +1,5 @@
 ﻿## Challenge 1 
-[Back To Homepage](https://github.com/YiheWang/CS4320/blob/master/README.md)
+[Back To Homepage](https://github.com/YiheWang/CS4320)
 ### An Introduction Of Han Fu : Most Representative Traditional Dress of China 
 [*Han Fu Wiki*](https://en.wikipedia.org/wiki/Hanfu)
 
@@ -51,6 +51,5 @@ The dynasty to follow the Shang, the [Western Zhou Dynasty](https://en.wikipedia
 [Chinese academic dress](https://en.wikipedia.org/wiki/Chinese_academic_dress)
 
 [Hanfu movement](https://en.wikipedia.org/wiki/Hanfu_movement)
-
 
 
