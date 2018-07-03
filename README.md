@@ -11,18 +11,10 @@
  
  1. [Plan A Trip Project](https://github.com/YiheWang/CS4320PlanTripProject)
  ***
+ ### Final Project 
+ [Go to Final Project](https://github.com/YiheWang/CS4320FinalProject)
  
  > SQLite 天下第一, Java 才是世界上最好的语言  by **鲁迅**
 
- <h2 class="city">London</h2>
- <p>London is the capital of England.</p>
-
- <h2 class="city">Paris</h2>
- <p>Paris is the capital of France.</p>
-
- <h2 class="city">Tokyo</h2>
- <p>Tokyo is the capital of Japan.</p>
-
- <p>In this example, CSS styles all elements with the class name "city".</p>
 
 
